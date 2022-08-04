@@ -1,4 +1,4 @@
-<p align="center">Multitenant Laravel with Keycloak integration</p>
+<p align="center"><h3>Multitenant Laravel with Keycloak integration</h3></p>
 
 
 
